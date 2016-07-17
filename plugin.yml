@@ -1,0 +1,5 @@
+name: PancakeTowny
+version: 1.0
+main: me.hiztree.pancaketowny.PancakeTowny
+description: A mod fix for towny.
+depend: [Towny]
